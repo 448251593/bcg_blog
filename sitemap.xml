@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/2022/03/12/suntrace-by-mcu/</loc>
+    <loc>http://bcg448251593.gitee.io/blog/2022/03/14/vscode-markdown-wirte-hexo/</loc>
+    
+    <lastmod>2022-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bcg448251593.gitee.io/blog/2022/03/14/matery-article-cover-pic/</loc>
+    
+    <lastmod>2022-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bcg448251593.gitee.io/blog/2022/03/08/cyuyanjiejuemofang/</loc>
+    
+    <lastmod>2022-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bcg448251593.gitee.io/blog/2022/03/12/suntrace-by-mcu/</loc>
     
     <lastmod>2022-03-12</lastmod>
     
@@ -11,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/2022/03/08/cyuyanjiejuemofang/</loc>
+    <loc>http://bcg448251593.gitee.io/blog/2022/03/07/testimage/</loc>
     
     <lastmod>2022-03-08</lastmod>
     
@@ -20,16 +47,7 @@
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/2022/03/07/testimage/</loc>
-    
-    <lastmod>2022-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://448251593.github.io/bcg_blog/404/index.html</loc>
+    <loc>http://bcg448251593.gitee.io/blog/404/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
     
@@ -38,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/friends/index.html</loc>
+    <loc>http://bcg448251593.gitee.io/blog/friends/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
     
@@ -47,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/contact/index.html</loc>
+    <loc>http://bcg448251593.gitee.io/blog/contact/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
     
@@ -56,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/about/index.html</loc>
+    <loc>http://bcg448251593.gitee.io/blog/about/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
     
@@ -65,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/tags/index.html</loc>
+    <loc>http://bcg448251593.gitee.io/blog/tags/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
     
@@ -74,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/categories/index.html</loc>
+    <loc>http://bcg448251593.gitee.io/blog/categories/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
     
@@ -83,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/list/index.html</loc>
+    <loc>http://bcg448251593.gitee.io/blog/list/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
     
@@ -92,16 +110,7 @@
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/2022/03/05/test111/</loc>
-    
-    <lastmod>2022-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://448251593.github.io/bcg_blog/2022/03/05/hello-world/</loc>
+    <loc>http://bcg448251593.gitee.io/blog/2022/03/05/test111/</loc>
     
     <lastmod>2022-03-05</lastmod>
     
@@ -111,37 +120,51 @@
   
 
   <url>
-    <loc>https://448251593.github.io/bcg_blog</loc>
-    <lastmod>2022-03-12</lastmod>
+    <loc>http://bcg448251593.gitee.io/blog</loc>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/tags/c%E8%AF%AD%E8%A8%80-%E9%AD%94%E6%96%B9/</loc>
-    <lastmod>2022-03-12</lastmod>
+    <loc>http://bcg448251593.gitee.io/blog/tags/c%E8%AF%AD%E8%A8%80-%E9%AD%94%E6%96%B9/</loc>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/tags/MCU-%E5%B5%8C%E5%85%A5%E5%BC%8F/</loc>
-    <lastmod>2022-03-12</lastmod>
+    <loc>http://bcg448251593.gitee.io/blog/tags/matery/</loc>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/tags/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/</loc>
-    <lastmod>2022-03-12</lastmod>
+    <loc>http://bcg448251593.gitee.io/blog/tags/MCU-%E5%B5%8C%E5%85%A5%E5%BC%8F/</loc>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/tags/tagtagtags/</loc>
-    <lastmod>2022-03-12</lastmod>
+    <loc>http://bcg448251593.gitee.io/blog/tags/tagtagtags/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://bcg448251593.gitee.io/blog/tags/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://bcg448251593.gitee.io/blog/tags/vscode-markdown/</loc>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -149,22 +172,29 @@
 
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/categories/%E5%8D%95%E7%89%87%E6%9C%BA-%E5%A4%AA%E9%98%B3%E8%83%BD/</loc>
-    <lastmod>2022-03-12</lastmod>
+    <loc>http://bcg448251593.gitee.io/blog/categories/hexo/</loc>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/categories/pic1/</loc>
-    <lastmod>2022-03-12</lastmod>
+    <loc>http://bcg448251593.gitee.io/blog/categories/%E5%8D%95%E7%89%87%E6%9C%BA-%E5%A4%AA%E9%98%B3%E8%83%BD/</loc>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://448251593.github.io/bcg_blog/categories/categ111/</loc>
-    <lastmod>2022-03-12</lastmod>
+    <loc>http://bcg448251593.gitee.io/blog/categories/categ111/</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://bcg448251593.gitee.io/blog/categories/pic1/</loc>
+    <lastmod>2022-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

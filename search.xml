@@ -4,61 +4,11 @@
   
     
     <entry>
-      <title>vscode编辑markdown,直接截图粘贴</title>
-      <link href="/blog/2022/03/14/vscode-markdown-wirte-hexo/"/>
-      <url>/blog/2022/03/14/vscode-markdown-wirte-hexo/</url>
-      
-        <content type="html"><![CDATA[<h3 id="vscode-编辑markdown-配合hexo神器"><a href="#vscode-编辑markdown-配合hexo神器" class="headerlink" title="vscode 编辑markdown,配合hexo神器"></a>vscode 编辑markdown,配合hexo神器</h3><img src="/blog/2022/03/14/vscode-markdown-wirte-hexo/20220314_215001_image.png" class=""><p>在vscode 插件搜索框里面搜索 markdown editor 安装后既可以使用vsocde编辑md</p><p>如下图:</p><img src="/blog/2022/03/14/vscode-markdown-wirte-hexo/20220314_213731_image.png" class=""><p>安装后右击选择文档,用open with markdown editor 打开就能粘贴图片了,自动保存到了assets文件,编辑完成以后把asset目录下的文件拷贝到对应的文件目录下,然后替换assets为空就可以了,</p><h4 id="注意-需要先安装"><a href="#注意-需要先安装" class="headerlink" title="注意:需要先安装"></a>注意:需要先安装</h4><ul><li>修改<code>_config.yml</code>中的<code>post_asset_folder: true</code></li><li>&#96;$ npm install hexo-image-link –save</li></ul><img src="/blog/2022/03/14/vscode-markdown-wirte-hexo/20220314_213911_image.png" class="">]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> vscode,markdown </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>matery theme主题自定义文章图片</title>
-      <link href="/blog/2022/03/14/matery-article-cover-pic/"/>
-      <url>/blog/2022/03/14/matery-article-cover-pic/</url>
-      
-        <content type="html"><![CDATA[<p>测试一下matery theme主题的文章封面图片自定义</p><p>ceshi</p><img src="/blog/2022/03/14/matery-article-cover-pic/20220314_191013_image.png" class=""><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">layout/index.<span class="property">ejs</span></span><br><span class="line"><span class="number">64</span>: 改为&lt;img src=<span class="string">&quot;&lt;%- url_for(post.path)%&gt;&lt;%- url_for(post.img).substring(url_for(post.img).lastIndexOf(&#x27;/&#x27;)) %&gt;&quot;</span></span><br></pre></td></tr></table></figure><p>可以使用markdown文档里面的任何一个图片作为封面</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> matery </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>suntrace by mcu</title>
-      <link href="/blog/2022/03/12/suntrace-by-mcu/"/>
-      <url>/blog/2022/03/12/suntrace-by-mcu/</url>
+      <link href="/bcg_blog/2022/03/12/suntrace-by-mcu/"/>
+      <url>/bcg_blog/2022/03/12/suntrace-by-mcu/</url>
       
-        <content type="html"><![CDATA[<h1 id="stm8-单片机通过光敏电阻-控制步进电机实现跟踪太阳的算法"><a href="#stm8-单片机通过光敏电阻-控制步进电机实现跟踪太阳的算法" class="headerlink" title="stm8 单片机通过光敏电阻,控制步进电机实现跟踪太阳的算法"></a>stm8 单片机通过光敏电阻,控制步进电机实现跟踪太阳的算法</h1><ul><li>通过4路光敏元件,设计一个电路,可以计算一个正对太阳的角度.然后控制步进电机实现实时跟踪太阳,可以<br>让太阳能电池板处于最佳工作状态</li></ul><img src="/blog/2022/03/12/suntrace-by-mcu/20220306_224027_image.png" class=""><p>光敏电路如如下:</p><img src="/blog/2022/03/12/suntrace-by-mcu/20220306_224250_image.png" class="">]]></content>
+        <content type="html"><![CDATA[<h1 id="stm8-单片机通过光敏电阻-控制步进电机实现跟踪太阳的算法"><a href="#stm8-单片机通过光敏电阻-控制步进电机实现跟踪太阳的算法" class="headerlink" title="stm8 单片机通过光敏电阻,控制步进电机实现跟踪太阳的算法"></a>stm8 单片机通过光敏电阻,控制步进电机实现跟踪太阳的算法</h1><ul><li>通过4路光敏元件,设计一个电路,可以计算一个正对太阳的角度.然后控制步进电机实现实时跟踪太阳,可以<br>让太阳能电池板处于最佳工作状态</li></ul><img src="/bcg_blog/2022/03/12/suntrace-by-mcu/20220306_224027_image.png" class=""><p>光敏电路如如下:</p><img src="/bcg_blog/2022/03/12/suntrace-by-mcu/20220306_224250_image.png" class="">]]></content>
       
       
       <categories>
@@ -80,10 +30,10 @@
     
     <entry>
       <title>C语言 计算魔方的算法思路</title>
-      <link href="/blog/2022/03/08/cyuyanjiejuemofang/"/>
-      <url>/blog/2022/03/08/cyuyanjiejuemofang/</url>
+      <link href="/bcg_blog/2022/03/08/cyuyanjiejuemofang/"/>
+      <url>/bcg_blog/2022/03/08/cyuyanjiejuemofang/</url>
       
-        <content type="html"><![CDATA[<p>魔方如何用c语言解决还原问题呢?</p><img src="/blog/2022/03/08/cyuyanjiejuemofang/20220308_082630_image.png" class=""><p>从知乎看到一个定义,很不错!</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">// cube definition:</span><br><span class="line">//</span><br><span class="line">//             |************|</span><br><span class="line">//             |*U1**U2**U3*|</span><br><span class="line">//             |************|</span><br><span class="line">//             |*U4**U5**U6*|</span><br><span class="line">//             |************|</span><br><span class="line">//             |*U7**U8**U9*|</span><br><span class="line">//             |************|</span><br><span class="line">// ************|************|************|************|</span><br><span class="line">// *L1**L2**L3*|*F1**F2**F3*|*R1**R2**R3*|*B1**B2**B3*|</span><br><span class="line">// ************|************|************|************|</span><br><span class="line">// *L4**L5**L6*|*F4**F5**F6*|*R4**R5**R6*|*B4**B5**B6*|</span><br><span class="line">// ************|************|************|************|</span><br><span class="line">// *L7**L8**L9*|*F7**F8**F9*|*R7**R8**R9*|*B7**B8**B9*|</span><br><span class="line">// ************|************|************|************|</span><br><span class="line">//             |************|</span><br><span class="line">//             |*D1**D2**D3*|</span><br><span class="line">//             |************|</span><br><span class="line">//             |*D4**D5**D6*|</span><br><span class="line">//             |************|</span><br><span class="line">//             |*D7**D8**D9*|</span><br><span class="line">//             |************|</span><br><span class="line">//</span><br><span class="line">// -&gt; U1U2U3U4U5U6U7U8U9R1R2R3R4R5R6R7R8R9F1F2F3F4F5F6F7F8F9D1D2D3D4D5D6D7D8D9L1L2L3L4L5L6L7L8L9B1B2B3B4B5B6B7B8B9</span><br></pre></td></tr></table></figure><p>通过一个数组就实现魔方的几个旋转操作方法,最后实现一定的排序就可以了.具体的算法还有收敛判断还没仔细研究.</p>]]></content>
+        <content type="html"><![CDATA[<p>这是一个魔方如何用c语言解决这个魔方的还原问题呢?</p><img src="/bcg_blog/2022/03/08/cyuyanjiejuemofang/20220308_082630_image.png" class="">]]></content>
       
       
       
@@ -99,10 +49,10 @@
     
     <entry>
       <title>testimage</title>
-      <link href="/blog/2022/03/07/testimage/"/>
-      <url>/blog/2022/03/07/testimage/</url>
+      <link href="/bcg_blog/2022/03/07/testimage/"/>
+      <url>/bcg_blog/2022/03/07/testimage/</url>
       
-        <content type="html"><![CDATA[<p>图片md显示测试:</p><img src="/blog/2022/03/07/testimage/20220307_225918_image.png" class="">]]></content>
+        <content type="html"><![CDATA[<p>图片md显示测试:</p><img src="/bcg_blog/2022/03/07/testimage/20220307_225918_image.png" class="">]]></content>
       
       
       <categories>
@@ -124,8 +74,8 @@
     
     <entry>
       <title>test111</title>
-      <link href="/blog/2022/03/05/test111/"/>
-      <url>/blog/2022/03/05/test111/</url>
+      <link href="/bcg_blog/2022/03/05/test111/"/>
+      <url>/bcg_blog/2022/03/05/test111/</url>
       
         <content type="html"><![CDATA[<p>categoriescategories<br>categories<br>categories<br>categories<br>categories<br>categories</p>]]></content>
       
@@ -142,6 +92,19 @@
             <tag> tagtagtags </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/bcg_blog/2022/03/05/hello-world/"/>
+      <url>/bcg_blog/2022/03/05/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
       
     </entry>
     
